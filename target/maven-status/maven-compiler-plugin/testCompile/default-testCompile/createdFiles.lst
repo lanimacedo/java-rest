@@ -1,5 +1,0 @@
-config/TestConfig.class
-tests/PostTest.class
-models/Post.class
-base/BaseTest.class
-services/PostService.class
